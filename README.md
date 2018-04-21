@@ -1,0 +1,1 @@
+'This application has a server which serves an HTML page conataining a funny image.'

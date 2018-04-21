@@ -1,0 +1,22 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMOsman177/html-image-server.git"
+  },
+  "author": "Ahmed Osman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMOsman177/html-image-server/issues"
+  },
+  "homepage": "https://github.com/AMOsman177/html-image-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
